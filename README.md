@@ -1,4 +1,4 @@
-# calculo_gauss
+# Cálculo - Método de Gauss
 
 O seguinte projeto refere-se a um algoritmo que realiza o método da eliminação de Gauss em um sistema de equações que seja de ordem n, contendo até 10 equações. Foi um projeto feito nas aulas de Cálculo Numérico, ministradas pela professora Tânia Camila, e realizado pelos alunos Mikael Talvany Antonio Mazzei e Matheus Felipe Jacobowski.
 

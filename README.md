@@ -17,3 +17,29 @@ Por fim, o usuário deve apertar o botão "Calcular", para então ser efetuado o
 ![c3](https://user-images.githubusercontent.com/48844708/65810370-eaece280-e17f-11e9-88be-8f8e777bf79b.png)
 
 Caso o usuário deseje, pode simplesmente fechar a janela com o resultado, inserir novos valores, e apertar o botão calcular novamente, gerando um resultado novo de acordo com o sistema inserido.
+
+## Problemas
+
+Em alguns computadores, o arquivo .jar não abriu. Caso isso aconteça no seu computador, você deve seguir os seguintes passos:  
+
+1. Abra o menu Iniciar do seu Windows.
+
+![t1](https://user-images.githubusercontent.com/48844708/65811236-aff0ac00-e18b-11e9-81b8-453742478411.png)
+
+2. Digite "cmd", sem as aspas.
+
+![t2](https://user-images.githubusercontent.com/48844708/65811237-aff0ac00-e18b-11e9-995c-ff0c0c38fce7.png)
+
+3. Abra o Prompt de Comando.
+
+![t3](https://user-images.githubusercontent.com/48844708/65811238-b0894280-e18b-11e9-832f-7735761fe476.png)
+
+4. Navegue até a pasta onde está o arquivo .jar. É recomendável deixar o .jar na Área de Trabalho, deste modo basta digitar cd Desktop, como na imagem:
+
+![t4](https://user-images.githubusercontent.com/48844708/65811239-b0894280-e18b-11e9-83df-616dc99080f0.png)
+
+5. Execute o comando java -jar <nome do arquivo> na pasta onde o arquivo está localizado, como no exemplo abaixo:
+
+![t5](https://user-images.githubusercontent.com/48844708/65811240-b0894280-e18b-11e9-8128-cb61948d6c36.png)
+
+Após isso, caso ainda não seja possível executar o arquivo, favor entrar em contato com o responsável por este repositório.
